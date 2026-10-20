@@ -1,0 +1,38 @@
+
+{
+  "records": [
+    {
+      
+      "id": "KB001",
+      "intent": "track_order",
+      "category": "shipping",
+      "question": "How can I track my order?",
+      "answer": "You can track your order using the tracking link in your shipping confirmation email.",
+      "keywords": ["track", "tracking", "order", "delivery"]
+    },
+    {
+      "id": "KB002",
+      "intent": "return_policy",
+      "category": "returns",
+      "question": "How can I return an item?",
+      "answer": "Please contact customer support to confirm return eligibility and receive return instructions.",
+      "keywords": ["return", "exchange", "item"]
+    },
+    {
+      "id": "KB003",
+      "intent": "refund_status",
+      "category": "refunds",
+      "question": "How can I check my refund?",
+      "answer": "Please contact customer support to verify your refund status.",
+      "keywords": ["refund", "money", "payment"]
+    },
+    {
+      "id": "KB004",
+      "intent": "greeting",
+      "category": "general",
+      "question": "Hello",
+      "answer": "Hello! Welcome to customer support. How can I help you today?",
+      "keywords": ["hello", "hi", "hey"]
+    }
+  ]
+}
